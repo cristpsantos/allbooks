@@ -19,5 +19,5 @@ server.use(router) //rotas na prota 3000
 
 server.listen(8000, () => {
   console.log("Acesse neste endereço a API http://localhost:8000")
-  console.log("Não tenho nem ideia qual conflito")
+  console.log("Simulando um conflito")
 })
